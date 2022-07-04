@@ -1,16 +1,7 @@
-# Simulation 2 (Up to date)
-# 1219 data points written for 3 variables.
-# Simulation warnings:
-#   Body calculations may not be entirely accurate at supersonic speeds.
-#
-# Altitude (m),Position East of launch (m),Position North of launch (m)
-# Event LAUNCH occurred at t=0 seconds
-# Event IGNITION occurred at t=0 seconds
 0,0,0
 3.8825e-4,3.8825e-4,0
 0.0028201,0.0028201,0
 0.0098309,0.0098309,0
-# Event LIFTOFF occurred at t=0.04 seconds
 0.023958,0.023958,0
 0.047359,0.047359,0
 0.081279,0.081279,0
@@ -40,7 +31,6 @@
 4.2039,4.2039,0
 4.5134,4.5134,0
 4.8339,4.8339,0
-# Event LAUNCHROD occurred at t=0.33 seconds
 5.1654,5.1654,0
 5.6829,5.6839,2.6911e-7
 6.504,6.51,1.7222e-6
@@ -168,8 +158,6 @@
 1718,2187.3,0.51605
 1736.5,2212.5,0.52587
 1754.9,2237.6,0.53576
-# Event BURNOUT occurred at t=6.3588 seconds
-# Event EJECTION_CHARGE occurred at t=6.3588 seconds
 1773.1,2262.5,0.5457
 1791.2,2287.3,0.55564
 1809.2,2311.9,0.56559
@@ -543,7 +531,6 @@
 4176.6,7186.4,5.1991
 4176.6,7194.9,5.2139
 4176.6,7203.5,5.2287
-# Event APOGEE occurred at t=25.009 seconds
 4176.5,7212,5.2435
 4176.5,7220.6,5.2583
 4176.4,7229.1,5.2731
@@ -1230,5 +1217,3 @@
 26.079,10886,15.446
 16.53,10889,15.457
 6.9777,10891,15.469
-# Event GROUND_HIT occurred at t=59.309 seconds
-# Event SIMULATION_END occurred at t=59.309 seconds
